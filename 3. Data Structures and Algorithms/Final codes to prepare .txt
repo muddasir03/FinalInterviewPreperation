@@ -1,0 +1,54 @@
+
+Code from Arrays.
+
+1. Move all zeroes to the end.
+2. Tell me if an array contains duplicates.
+3. Remove all duplicate elements from the array.
+4. Two Sum. 
+5. Searching Algorithms => Linear and Binary Search.
+6. Best time to buy and sell stock.
+7. Finding largest element in an array.
+8. Finding Second largest element in an array.
+9. Finding smallest element in an array.
+10. Finding Second smallest element in an array.
+11. Check if the array is sorted.
+12. Finding missing number in an array.
+13. Count the number of consecutive 1s or 0s in an array.
+14. Find the number that appears once, and the other numbers twice.
+15. Rotate Array by 1 place.
+16. Rotate Array by n places.
+17. Longest Consecutive Sequence in an Array.
+18. Find all pairs of an integer array whose sum is equal to a given number.
+19. All sorting algorithms Selection, Insertion, Bubble, Merge and Quick Sort. 
+20. Reverse an Array.
+21. Finding Unique elements of arrays.
+22. Finding Intersection elements of arrays.
+
+
+Codes from LinkedList.
+
+1. LinkedList creation, traversing and searching.
+2. LinkedList reversal method (iterative (imp) and recursive).
+3. LinkedList middle (find length and then divide the length by 2 make a pointer points to head and start loop from head to the variable which stores the length/2 when the loop reaches there return that node data) and ( You can also use fast and slow node approach named as tortoise).
+4. LinkedList cycle, starting node of a cycle and removal of a node of cycle.
+5. Removal of duplicate elements in sorted and unsorted LinkedList.
+6. Basic insertion and deletion at any level like beginning, end and at any position.
+7. Doubly LinkedList basic code.
+8. Circular LinkedList basic code.
+9. Sort a LinkedList.
+10. Merge two LinkedList.
+
+
+
+Code from Stack :
+ 
+1. Stack using arrays.
+2. Stack using LinkedList.
+3. Stack using Queue.
+4. Valid parenthesis.
+
+Code from Queue :
+ 
+1. Queue using arrays.
+2. Queue using LinkedList.
+3. Queue using Stack.
