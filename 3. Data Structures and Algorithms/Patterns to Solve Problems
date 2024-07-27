@@ -1,1 +1,25 @@
+==> Sliding Window and Two Pointers
+
+Work on the 4 patterns.
+
+1. Constant window.
+2. Longest Subarray/Substring with condition (Brute Force,Better,Optimal).
+3. No. of subarrays where condition (we will use pattern 2 here ).
+4. Minimum Window Subsequence. 
+
+Problems to Solve :
+
+1. Longest Subarray with sum<=k (Basic Problem to understand Pattern 2).
+2. Longest Substring without repeating characters.
+3. Maximum Consecutive Ones 111.
+4. Fruits into Basket.
+5. Longest Repeating Character Replacement.
+6. Binary Subarray with Sum.
+7. Count number of nice subarrays.
+8. Number of substring containing all three characters.
+9. Maximum point you can obtain from cards.
+10. Longest substring with atmost k Distinc characters.
+11. Subarray with K different integers.
+12. Minimum Window Substring.
+13. Minimum Window Subsequence (Pattern 4).
 
